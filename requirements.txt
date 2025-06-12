@@ -1,0 +1,7 @@
+streamlit
+seaborn
+pandas
+matplotlib
+scikit-learn
+numpy<=2.1.0
+ydata-profiling
